@@ -1,6 +1,6 @@
 **Institution:** The City College of New York (CCNY)
 
-**Class:** csc448: Artificial Intelligence
+#### csc448: Artificial Intelligence
 ---
 
 
